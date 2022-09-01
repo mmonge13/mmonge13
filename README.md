@@ -10,7 +10,7 @@ Skills: HTML / CSS / JS / Python / JAVA / REACT / NODEJS / SQL / DJANGO
 
 Tools: Windows / Visual Studio Code / intelliJ IDEA / GIT / Android Studio / MySQL Server
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on this Portfolio. 
 - 🌱 I’m currently learning DJANGO 
 
 
