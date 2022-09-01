@@ -1,3 +1,5 @@
+![FullStack Developer](https://github.com/mmonge13/mmonge13/blob/main/marianoMongeBanner.png)
+
 ### Hi there 👋, my name is Mariano
 #### I am FullStack Developer Trainee
 
