@@ -1,5 +1,3 @@
-![FullStack Developer]()
-
 ### Hi there 👋, my name is Mariano
 #### I am FullStack Developer Trainee
 
